@@ -1,22 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,25:1a1a2e,50:4169E1,75:667eea,100:00ffff&height=200&section=header&text=%3E%20LOADING%20GITHUB...&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Alberto%20Cort%C3%A9s%20Balaguer&descSize=20&descColor=667eea&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,25:1a1a2e,50:4169E1,75:667eea,100:00ffff&height=200&section=header&text=%3E%20LOADING%20GITHUB...&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Alberto%20Cort%C3%A9s%20Balaguer&descSize=20&descColor=00ffff&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=UX+%26+App+Designer+%7C+Frontend+Developer;Building+interactive+experiences+%F0%9F%9A%80;Crafting+pixels+with+purpose+%E2%9C%A8;Retro-futuristic+design+enthusiast+%F0%9F%8E%AE" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=UX+%26+App+Designer+%7C+Frontend+Developer;Building+interactive+experiences;Crafting+pixels+with+purpose;Retro-futuristic+design+enthusiast" alt="Subtitle" />
 
 <br><br>
 
-<a href="https://albertocortesba.com">
-  <img src="https://img.shields.io/badge/%E2%96%B8_PORTFOLIO-albertocortesba.com-00ffff?style=for-the-badge&labelColor=0f0f23" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/acortesba">
-  <img src="https://img.shields.io/badge/%E2%96%B8_LINKEDIN-acortesba-ff00ff?style=for-the-badge&labelColor=0f0f23&logo=linkedin&logoColor=ff00ff" alt="LinkedIn" />
-</a>
-<a href="mailto:albertocortesba@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%96%B8_EMAIL-Contact_Me-667eea?style=for-the-badge&labelColor=0f0f23&logo=gmail&logoColor=667eea" alt="Email" />
-</a>
+<a href="https://albertocortesba.com"><img src="https://img.shields.io/badge/%E2%96%B8_PORTFOLIO-albertocortesba.com-00ffff?style=for-the-badge&labelColor=0f0f23" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/acortesba"><img src="https://img.shields.io/badge/%E2%96%B8_LINKEDIN-acortesba-ff00ff?style=for-the-badge&labelColor=0f0f23&logo=linkedin&logoColor=ff00ff" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:albertocortesba@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B8_EMAIL-Contact_Me-667eea?style=for-the-badge&labelColor=0f0f23&logo=gmail&logoColor=667eea" alt="Email" /></a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=acortesba&color=00ffff&style=for-the-badge&label=%E2%96%B8+VIEWS" alt="Profile Views" />
 
 </div>
@@ -30,7 +27,7 @@
 
 <div align="center">
 
-### `> whoami`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%3E+whoami" alt="whoami" />
 
 </div>
 
@@ -40,11 +37,11 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 
 <div align="center">
 
-### `> cat skills.config`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=false&width=400&height=40&lines=%3E+cat+skills.config" alt="skills" />
 
 <br>
 
-`// DESIGN & UX`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&repeat=false&width=200&height=25&lines=%2F%2F+DESIGN+%26+UX" alt="design" />
 
 ![Figma](https://img.shields.io/badge/Figma-0f0f23?style=for-the-badge&logo=figma&logoColor=00ffff)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-0f0f23?style=for-the-badge&logo=adobexd&logoColor=ff00ff)
@@ -52,7 +49,7 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 ![Photoshop](https://img.shields.io/badge/Photoshop-0f0f23?style=for-the-badge&logo=adobephotoshop&logoColor=00ffff)
 ![Illustrator](https://img.shields.io/badge/Illustrator-0f0f23?style=for-the-badge&logo=adobeillustrator&logoColor=ff00ff)
 
-`// FRONTEND`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&repeat=false&width=200&height=25&lines=%2F%2F+FRONTEND" alt="frontend" />
 
 ![HTML5](https://img.shields.io/badge/HTML5-0f0f23?style=for-the-badge&logo=html5&logoColor=ff6b6b)
 ![CSS3](https://img.shields.io/badge/CSS3-0f0f23?style=for-the-badge&logo=css3&logoColor=4169E1)
@@ -60,7 +57,7 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 ![Three.js](https://img.shields.io/badge/Three.js-0f0f23?style=for-the-badge&logo=threedotjs&logoColor=00ffff)
 ![React](https://img.shields.io/badge/React-0f0f23?style=for-the-badge&logo=react&logoColor=61dafb)
 
-`// BACKEND & TOOLS`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&repeat=false&width=250&height=25&lines=%2F%2F+BACKEND+%26+TOOLS" alt="backend" />
 
 ![Firebase](https://img.shields.io/badge/Firebase-0f0f23?style=for-the-badge&logo=firebase&logoColor=ffa500)
 ![Node.js](https://img.shields.io/badge/Node.js-0f0f23?style=for-the-badge&logo=nodedotjs&logoColor=00ff88)
@@ -71,15 +68,13 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 
 <div align="center">
 
-### `> stats --verbose`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=400&height=40&lines=%3E+stats+--verbose" alt="stats" />
 
 <br>
 
 <a href="https://github.com/acortesba">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acortesba&theme=2077" alt="Profile Details" width="95%" />
 </a>
-
-<br>
 
 <a href="https://github.com/acortesba">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acortesba&theme=2077" alt="GitHub Stats" width="32%" />
@@ -90,8 +85,6 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 <a href="https://github.com/acortesba">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=acortesba&theme=2077" alt="Top Languages by Commit" width="32%" />
 </a>
-
-<br>
 
 <a href="https://github.com/acortesba">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acortesba&theme=2077&utcOffset=1" alt="Productive Time" width="49%" />
@@ -104,7 +97,7 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 
 <div align="center">
 
-### `> ls projects/`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%3E+ls+projects%2F" alt="projects" />
 
 <br>
 
@@ -117,7 +110,7 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 
 <div align="center">
 
-### `> activity.log`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%3E+activity.log" alt="activity" />
 
 <br>
 
@@ -127,12 +120,12 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 
 <div align="center">
 
-### `> trophies`
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%3E+trophies" alt="trophies" />
 
 <br>
 
 <a href="https://github.com/acortesba">
-  <img src="https://github-profile-trophy.vercel.app/?username=acortesba&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies" width="90%" />
+  <img src="https://github-trophies.vercel.app/?username=acortesba&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" width="90%" />
 </a>
 
 </div>
@@ -143,15 +136,11 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 
 <br>
 
-<a href="https://albertocortesba.com">
-  <img src="https://img.shields.io/badge/%E2%96%B8_EXPLORE_PORTFOLIO-albertocortesba.com-00ffff?style=for-the-badge&labelColor=0f0f23" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/acortesba">
-  <img src="https://img.shields.io/badge/%E2%96%B8_CONNECT-LinkedIn-ff00ff?style=for-the-badge&labelColor=0f0f23&logo=linkedin&logoColor=ff00ff" alt="LinkedIn" />
-</a>
-<a href="mailto:albertocortesba@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%96%B8_CONTACT-Email-667eea?style=for-the-badge&labelColor=0f0f23&logo=gmail&logoColor=667eea" alt="Email" />
-</a>
+<a href="https://albertocortesba.com"><img src="https://img.shields.io/badge/%E2%96%B8_EXPLORE_PORTFOLIO-albertocortesba.com-00ffff?style=for-the-badge&labelColor=0f0f23" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/acortesba"><img src="https://img.shields.io/badge/%E2%96%B8_CONNECT-LinkedIn-ff00ff?style=for-the-badge&labelColor=0f0f23&logo=linkedin&logoColor=ff00ff" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:albertocortesba@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B8_CONTACT-Email-667eea?style=for-the-badge&labelColor=0f0f23&logo=gmail&logoColor=667eea" alt="Email" /></a>
 
 <br><br>
 
