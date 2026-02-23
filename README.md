@@ -21,16 +21,12 @@
 
 </div>
 
-<div align="center">
-
 ```
 > SYSTEM.init()
 > Loading modules...
 > UX_Design ✓  Frontend_Dev ✓  3D_Rendering ✓  Interaction_Design ✓  Easter_Eggs ✓
 > All systems operational.
 ```
-
-</div>
 
 <div align="center">
 
@@ -80,16 +76,28 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 <br>
 
 <a href="https://github.com/acortesba">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=acortesba&show_icons=true&hide_border=true&bg_color=0f0f23&title_color=00ffff&text_color=667eea&icon_color=ff00ff&ring_color=00ffff&count_private=true&border_radius=10" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/acortesba">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=acortesba&hide_border=true&background=0f0f23&stroke=1a1a2e&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=667eea&currStreakNum=ff00ff&sideNums=00ffff&dates=333366&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acortesba&theme=2077" alt="Profile Details" width="95%" />
 </a>
 
 <br>
 
 <a href="https://github.com/acortesba">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acortesba&layout=compact&hide_border=true&bg_color=0f0f23&title_color=ff00ff&text_color=667eea&langs_count=8&border_radius=10" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acortesba&theme=2077" alt="GitHub Stats" width="32%" />
+</a>
+<a href="https://github.com/acortesba">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=acortesba&theme=2077" alt="Top Languages by Repo" width="32%" />
+</a>
+<a href="https://github.com/acortesba">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=acortesba&theme=2077" alt="Top Languages by Commit" width="32%" />
+</a>
+
+<br>
+
+<a href="https://github.com/acortesba">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acortesba&theme=2077&utcOffset=1" alt="Productive Time" width="49%" />
+</a>
+<a href="https://github.com/acortesba">
+  <img src="https://streak-stats.demolab.com/?user=acortesba&hide_border=true&background=0f0f23&stroke=1a1a2e&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=667eea&currStreakNum=ff00ff&sideNums=00ffff&dates=333366&border_radius=10" alt="GitHub Streak" width="49%" />
 </a>
 
 </div>
@@ -123,7 +131,9 @@ Currently building my portfolio at **[albertocortesba.com](https://albertocortes
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=acortesba&theme=algolia&no-bg=true&no-frame=true&column=7" alt="Trophies" width="90%" />
+<a href="https://github.com/acortesba">
+  <img src="https://github-profile-trophy.vercel.app/?username=acortesba&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies" width="90%" />
+</a>
 
 </div>
 
