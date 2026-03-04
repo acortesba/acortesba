@@ -1,153 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,25:1a1a2e,50:4169E1,75:667eea,100:00ffff&height=200&section=header&text=%3E%20LOADING%20GITHUB...&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Alberto%20Cort%C3%A9s%20Balaguer&descSize=20&descColor=00ffff&descAlignY=55&animation=fadeIn" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d2d2d&height=160&text=Alberto%20Cort%C3%A9s%20Balaguer&fontSize=36&fontColor=f5f5f5&fontAlignY=42&desc=UX%20Designer%20%26%20Frontend%20Developer&descSize=16&descColor=e8700a&descAlignY=60&fontFamily=VT323" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,100:e8e8e8&height=160&text=Alberto%20Cort%C3%A9s%20Balaguer&fontSize=36&fontColor=1a1a1a&fontAlignY=42&desc=UX%20Designer%20%26%20Frontend%20Developer&descSize=16&descColor=e8700a&descAlignY=60&fontFamily=VT323" alt="Alberto Cortés Balaguer" width="100%" />
+</picture>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=UX+%26+App+Designer+%7C+Frontend+Developer;Building+interactive+experiences;Crafting+pixels+with+purpose;Retro-futuristic+design+enthusiast" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2500&pause=99999&color=e8700a&center=true&vCenter=true&repeat=false&width=460&height=28&lines=%3E+UX+designer+%26+frontend+developer+based+in+Spain." alt="intro" />
 
 <br><br>
 
-<a href="https://albertocortesba.com"><img src="https://img.shields.io/badge/%E2%96%B8_PORTFOLIO-albertocortesba.com-00ffff?style=for-the-badge&labelColor=0f0f23" alt="Portfolio" /></a>
+<a href="https://albertocortesba.com">
+  <img src="https://img.shields.io/badge/Portfolio-albertocortesba.com-e8700a?style=flat-square&labelColor=2d2d2d&logo=googlechrome&logoColor=ffffff" alt="Portfolio" />
+</a>
 &nbsp;
-<a href="https://www.linkedin.com/in/acortesba"><img src="https://img.shields.io/badge/%E2%96%B8_LINKEDIN-acortesba-ff00ff?style=for-the-badge&labelColor=0f0f23&logo=linkedin&logoColor=ff00ff" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/acortesba">
+  <img src="https://img.shields.io/badge/LinkedIn-acortesba-f5f5f5?style=flat-square&labelColor=2d2d2d&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+</a>
 &nbsp;
-<a href="mailto:albertocortesba@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B8_EMAIL-Contact_Me-667eea?style=for-the-badge&labelColor=0f0f23&logo=gmail&logoColor=667eea" alt="Email" /></a>
+<a href="mailto:albertocortesba@gmail.com">
+  <img src="https://img.shields.io/badge/Email-get%20in%20touch-f5f5f5?style=flat-square&labelColor=2d2d2d&logo=gmail&logoColor=ffffff" alt="Email" />
+</a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=acortesba&color=00ffff&style=for-the-badge&label=%E2%96%B8+VIEWS" alt="Profile Views" />
-
-</div>
-
-```
-> SYSTEM.init()
-> Loading modules...
-> UX_Design ✓  Frontend_Dev ✓  3D_Rendering ✓  Interaction_Design ✓  Easter_Eggs ✓
-> All systems operational.
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%3E+whoami" alt="whoami" />
-
-</div>
-
-I'm a **UX & App Designer** and **Frontend Developer** who builds interactive, detail-obsessed digital experiences. I care about the craft — the micro-interactions, the pixel-perfect layouts, the things most people don't notice but definitely *feel*.
-
-Currently building my portfolio at **[albertocortesba.com](https://albertocortesba.com)** — a retro-futuristic playground with 3D showcases, Easter eggs, and more hidden features than I'll ever admit.
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=false&width=400&height=40&lines=%3E+cat+skills.config" alt="skills" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&repeat=false&width=200&height=25&lines=%2F%2F+DESIGN+%26+UX" alt="design" />
-
-![Figma](https://img.shields.io/badge/Figma-0f0f23?style=for-the-badge&logo=figma&logoColor=00ffff)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-0f0f23?style=for-the-badge&logo=adobexd&logoColor=ff00ff)
-![Blender](https://img.shields.io/badge/Blender-0f0f23?style=for-the-badge&logo=blender&logoColor=667eea)
-![Photoshop](https://img.shields.io/badge/Photoshop-0f0f23?style=for-the-badge&logo=adobephotoshop&logoColor=00ffff)
-![Illustrator](https://img.shields.io/badge/Illustrator-0f0f23?style=for-the-badge&logo=adobeillustrator&logoColor=ff00ff)
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&repeat=false&width=200&height=25&lines=%2F%2F+FRONTEND" alt="frontend" />
-
-![HTML5](https://img.shields.io/badge/HTML5-0f0f23?style=for-the-badge&logo=html5&logoColor=ff6b6b)
-![CSS3](https://img.shields.io/badge/CSS3-0f0f23?style=for-the-badge&logo=css3&logoColor=4169E1)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0f23?style=for-the-badge&logo=javascript&logoColor=ffd700)
-![Three.js](https://img.shields.io/badge/Three.js-0f0f23?style=for-the-badge&logo=threedotjs&logoColor=00ffff)
-![React](https://img.shields.io/badge/React-0f0f23?style=for-the-badge&logo=react&logoColor=61dafb)
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&repeat=false&width=250&height=25&lines=%2F%2F+BACKEND+%26+TOOLS" alt="backend" />
-
-![Firebase](https://img.shields.io/badge/Firebase-0f0f23?style=for-the-badge&logo=firebase&logoColor=ffa500)
-![Node.js](https://img.shields.io/badge/Node.js-0f0f23?style=for-the-badge&logo=nodedotjs&logoColor=00ff88)
-![Git](https://img.shields.io/badge/Git-0f0f23?style=for-the-badge&logo=git&logoColor=ff6b6b)
-![VS Code](https://img.shields.io/badge/VS_Code-0f0f23?style=for-the-badge&logo=visualstudiocode&logoColor=4169E1)
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=400&height=40&lines=%3E+stats+--verbose" alt="stats" />
-
-<br>
-
-<a href="https://github.com/acortesba">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acortesba&theme=2077" alt="Profile Details" width="95%" />
-</a>
-
-<a href="https://github.com/acortesba">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acortesba&theme=2077" alt="GitHub Stats" width="32%" />
-</a>
-<a href="https://github.com/acortesba">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=acortesba&theme=2077" alt="Top Languages by Repo" width="32%" />
-</a>
-<a href="https://github.com/acortesba">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=acortesba&theme=2077" alt="Top Languages by Commit" width="32%" />
-</a>
-
-<a href="https://github.com/acortesba">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acortesba&theme=2077&utcOffset=1" alt="Productive Time" width="49%" />
-</a>
-<a href="https://github.com/acortesba">
-  <img src="https://streak-stats.demolab.com/?user=acortesba&hide_border=true&background=0f0f23&stroke=1a1a2e&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=667eea&currStreakNum=ff00ff&sideNums=00ffff&dates=333366&border_radius=10" alt="GitHub Streak" width="49%" />
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%3E+ls+projects%2F" alt="projects" />
-
-<br>
-
-| | Project | Description | Stack |
-|:-:|:--------|:------------|:------|
-| 🌐 | [**Portfolio**](https://albertocortesba.com) | Retro-futuristic portfolio with 3D showcases, 6 themes & Easter eggs | `HTML` `CSS` `JS` `Three.js` `Firebase` |
-| 📝 | [**Blog**](https://albertocortesba.com/blog) | Full blog platform with comments, analytics & admin dashboard | `Firebase` `EditorJS` `SEO` |
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%3E+activity.log" alt="activity" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=acortesba&bg_color=0f0f23&color=00ffff&line=ff00ff&point=00ffff&area_color=4169E1&area=true&hide_border=true&custom_title=%3E%20CONTRIBUTION%20TIMELINE&title_color=667eea&radius=10" alt="Activity Graph" width="95%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%3E+trophies" alt="trophies" />
-
-<br>
-
-<a href="https://github.com/acortesba">
-  <img src="https://github-trophies.vercel.app/?username=acortesba&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" width="90%" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=acortesba&color=e8700a&style=flat-square&label=Views" alt="Profile views" />
 
 </div>
 
 ---
 
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=99999&pause=99999&color=2d2d2d&center=false&vCenter=true&repeat=false&width=200&height=32&lines=%3E+about" alt="about" />
+
+I work on both sides — design and code — mostly on web apps, interaction design, and anything that needs to feel right as well as work right.
+
+I like building things from scratch: layouts that make sense, interfaces that behave the way you'd expect, and the occasional deep dive into 3D rendering or creative experiments when the project calls for it.
+
+Currently **open to new projects** — [get in touch](mailto:albertocortesba@gmail.com).
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=99999&pause=99999&color=2d2d2d&center=false&vCenter=true&repeat=false&width=200&height=32&lines=%3E+tools" alt="tools" />
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=flat-square&logo=figma&labelColor=2d2d2d&logoColor=ffffff)
+![Blender](https://img.shields.io/badge/Blender-f5f5f5?style=flat-square&logo=blender&labelColor=2d2d2d&logoColor=ffffff)
+![Photoshop](https://img.shields.io/badge/Photoshop-f5f5f5?style=flat-square&logo=adobephotoshop&labelColor=2d2d2d&logoColor=ffffff)
+![Illustrator](https://img.shields.io/badge/Illustrator-f5f5f5?style=flat-square&logo=adobeillustrator&labelColor=2d2d2d&logoColor=ffffff)
+
+**Frontend**
+
+![HTML](https://img.shields.io/badge/HTML-f5f5f5?style=flat-square&logo=html5&labelColor=2d2d2d&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-f5f5f5?style=flat-square&logo=css3&labelColor=2d2d2d&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=flat-square&logo=javascript&labelColor=2d2d2d&logoColor=ffffff)
+![Three.js](https://img.shields.io/badge/Three.js-f5f5f5?style=flat-square&logo=threedotjs&labelColor=2d2d2d&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-f5f5f5?style=flat-square&logo=react&labelColor=2d2d2d&logoColor=ffffff)
+
+**Backend & tools**
+
+![Firebase](https://img.shields.io/badge/Firebase-f5f5f5?style=flat-square&logo=firebase&labelColor=2d2d2d&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-f5f5f5?style=flat-square&logo=nodedotjs&labelColor=2d2d2d&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-f5f5f5?style=flat-square&logo=git&labelColor=2d2d2d&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-f5f5f5?style=flat-square&logo=visualstudiocode&labelColor=2d2d2d&logoColor=ffffff)
+
+---
+
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=99999&pause=99999&color=2d2d2d&center=true&vCenter=true&repeat=false&width=200&height=32&lines=%3E+stats" alt="stats" />
 
 <br>
 
-<a href="https://albertocortesba.com"><img src="https://img.shields.io/badge/%E2%96%B8_EXPLORE_PORTFOLIO-albertocortesba.com-00ffff?style=for-the-badge&labelColor=0f0f23" alt="Portfolio" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/acortesba"><img src="https://img.shields.io/badge/%E2%96%B8_CONNECT-LinkedIn-ff00ff?style=for-the-badge&labelColor=0f0f23&logo=linkedin&logoColor=ff00ff" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:albertocortesba@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B8_CONTACT-Email-667eea?style=for-the-badge&labelColor=0f0f23&logo=gmail&logoColor=667eea" alt="Email" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=acortesba&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=e8700a&text_color=d1d5db&icon_color=e8700a&count_private=true&border_radius=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acortesba&show_icons=true&hide_border=true&bg_color=f5f5f5&title_color=e8700a&text_color=374151&icon_color=e8700a&count_private=true&border_radius=6" alt="GitHub Stats" width="48%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=acortesba&hide_border=true&background=1a1a1a&stroke=2d2d2d&ring=e8700a&fire=e8700a&currStreakLabel=e8700a&sideLabels=9ca3af&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=6b7280&border_radius=6" />
+  <img src="https://streak-stats.demolab.com/?user=acortesba&hide_border=true&background=f5f5f5&stroke=e5e7eb&ring=e8700a&fire=e8700a&currStreakLabel=e8700a&sideLabels=6b7280&currStreakNum=374151&sideNums=374151&dates=9ca3af&border_radius=6" alt="GitHub Streak" width="48%" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=acortesba&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=e8700a&text_color=d1d5db&border_radius=6&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acortesba&layout=compact&hide_border=true&bg_color=f5f5f5&title_color=e8700a&text_color=374151&border_radius=6&langs_count=8" alt="Top Languages" width="40%" />
+</picture>
+
+</div>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=99999&pause=99999&color=2d2d2d&center=false&vCenter=true&repeat=false&width=200&height=32&lines=%3E+projects" alt="projects" />
+
+| Project | What it is |
+|:--------|:-----------|
+| [**Portfolio**](https://albertocortesba.com) | Personal site — 3D project showcases, 6 visual themes, blog with a full CMS, and a few Easter eggs hidden around |
+| [**Blog**](https://albertocortesba.com/blog) | Part of the portfolio — post comments, view/like analytics, admin dashboard |
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=99999&pause=99999&color=2d2d2d&center=true&vCenter=true&repeat=false&width=200&height=32&lines=%3E+activity" alt="activity" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=acortesba&bg_color=1a1a1a&color=9ca3af&line=e8700a&point=e8700a&area_color=e8700a&area=true&hide_border=true&radius=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=acortesba&bg_color=f5f5f5&color=374151&line=e8700a&point=e8700a&area_color=e8700a&area=true&hide_border=true&radius=6" alt="Activity graph" width="95%" />
+</picture>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&duration=4000&pause=2000&color=333366&center=true&vCenter=true&repeat=true&width=400&height=20&lines=%3E+End+of+transmission._" alt="Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=99999&pause=99999&color=9ca3af&center=true&vCenter=true&repeat=false&width=220&height=24&lines=%3E+end+of+file._" alt="eof" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,25:667eea,50:4169E1,75:1a1a2e,100:0f0f23&height=120&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:1a1a1a&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8e8,100:f0f0f0&height=100&section=footer" alt="" width="100%" />
+</picture>
 
 </div>
+
