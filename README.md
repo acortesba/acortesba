@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1&pause=99999&color=e8700a&center=true&vCenter=true&repeat=false&width=500&height=28&lines=%3E+UX+designer+%26+frontend+developer+based+in+Spain." alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1&pause=99999&color=e8700a&center=true&vCenter=true&repeat=false&width=500&height=28&lines=%3E+UX+designer+%26+frontend+developer+based+in+Netherlands." alt="intro" />
 
 <br><br>
 
