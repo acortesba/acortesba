@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2500&pause=99999&color=e8700a&center=true&vCenter=true&repeat=false&width=500&height=28&lines=%3E+UX+designer+%26+frontend+developer+based+in+Spain." alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1&pause=99999&color=e8700a&center=true&vCenter=true&repeat=false&width=500&height=28&lines=%3E+UX+designer+%26+frontend+developer+based+in+Spain." alt="intro" />
 
 <br><br>
 
@@ -29,21 +29,21 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=99999&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=160&height=36&lines=%3E+about" alt="about" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=160&height=36&lines=%3E+about" alt="about" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1800&pause=99999&color=7d8590&center=false&vCenter=false&multiline=true&repeat=false&width=580&height=68&lines=I+work+on+both+sides+-+design+and+code+-+mostly+web+apps%2C;interaction+design%2C+and+anything+that+needs+to+feel+right;as+well+as+work+right." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=99999&color=a0aab4&center=false&vCenter=false&multiline=true&repeat=false&width=580&height=68&lines=I+work+on+both+sides+-+design+and+code+-+mostly+web+apps%2C;interaction+design%2C+and+anything+that+needs+to+feel+right;as+well+as+work+right." alt="" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1800&pause=99999&color=7d8590&center=false&vCenter=false&multiline=true&repeat=false&width=580&height=68&lines=I+like+building+from+scratch%3A+layouts+that+make+sense%2C;interfaces+that+behave+the+way+you%27d+expect%2C+and+the;occasional+dive+into+3D+rendering+or+creative+work." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=99999&color=a0aab4&center=false&vCenter=false&multiline=true&repeat=false&width=580&height=68&lines=I+like+building+from+scratch%3A+layouts+that+make+sense%2C;interfaces+that+behave+the+way+you%27d+expect%2C+and+the;occasional+dive+into+3D+rendering+or+creative+work." alt="" />
 
 <a href="mailto:albertocortesba@gmail.com">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=99999&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=360&height=26&lines=Currently+open+to+new+projects+%E2%86%92+get+in+touch" alt="Currently open to new projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=360&height=26&lines=Currently+open+to+new+projects+%E2%86%92+get+in+touch" alt="Currently open to new projects" />
 </a>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=99999&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=160&height=36&lines=%3E+tools" alt="tools" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=160&height=36&lines=%3E+tools" alt="tools" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=99999&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=180&height=26&lines=%2F%2F+ux+process" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=180&height=26&lines=%2F%2F+ux+process" alt="" />
 
 ![User Research](https://img.shields.io/badge/User_Research-f5f5f5?style=flat-square&labelColor=2d2d2d)
 ![Wireframing](https://img.shields.io/badge/Wireframing-f5f5f5?style=flat-square&labelColor=2d2d2d)
@@ -56,7 +56,7 @@
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-f5f5f5?style=flat-square&labelColor=2d2d2d)
 ![Heuristic Evaluation](https://img.shields.io/badge/Heuristic_Evaluation-f5f5f5?style=flat-square&labelColor=2d2d2d)
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=99999&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=130&height=26&lines=%2F%2F+design" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=130&height=26&lines=%2F%2F+design" alt="" />
 
 ![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=flat-square&logo=figma&labelColor=2d2d2d&logoColor=ffffff)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-f5f5f5?style=flat-square&logo=adobexd&labelColor=2d2d2d&logoColor=ffffff)
@@ -65,7 +65,7 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-f5f5f5?style=flat-square&logo=adobeillustrator&labelColor=2d2d2d&logoColor=ffffff)
 ![Miro](https://img.shields.io/badge/Miro-f5f5f5?style=flat-square&logo=miro&labelColor=2d2d2d&logoColor=ffffff)
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=99999&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=150&height=26&lines=%2F%2F+frontend" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=150&height=26&lines=%2F%2F+frontend" alt="" />
 
 ![HTML](https://img.shields.io/badge/HTML5-f5f5f5?style=flat-square&logo=html5&labelColor=2d2d2d&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS3-f5f5f5?style=flat-square&logo=css3&labelColor=2d2d2d&logoColor=ffffff)
@@ -75,7 +75,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-f5f5f5?style=flat-square&logo=vercel&labelColor=2d2d2d&logoColor=ffffff)
 ![Render](https://img.shields.io/badge/Render-f5f5f5?style=flat-square&logo=render&labelColor=2d2d2d&logoColor=ffffff)
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=99999&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=200&height=26&lines=%2F%2F+backend+%26+data" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=200&height=26&lines=%2F%2F+backend+%26+data" alt="" />
 
 ![Firebase](https://img.shields.io/badge/Firebase-f5f5f5?style=flat-square&logo=firebase&labelColor=2d2d2d&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-f5f5f5?style=flat-square&logo=nodedotjs&labelColor=2d2d2d&logoColor=ffffff)
@@ -85,7 +85,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-f5f5f5?style=flat-square&logo=visualstudiocode&labelColor=2d2d2d&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/Notion-f5f5f5?style=flat-square&logo=notion&labelColor=2d2d2d&logoColor=ffffff)
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=99999&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=180&height=26&lines=%2F%2F+soft+skills" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=18&duration=1&pause=99999&color=9ca3af&center=false&vCenter=true&repeat=false&width=180&height=26&lines=%2F%2F+soft+skills" alt="" />
 
 ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-f5f5f5?style=flat-square&labelColor=2d2d2d)
 ![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-f5f5f5?style=flat-square&labelColor=2d2d2d)
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=99999&pause=99999&color=e8700a&center=true&vCenter=true&repeat=false&width=160&height=36&lines=%3E+stats" alt="stats" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=e8700a&center=true&vCenter=true&repeat=false&width=160&height=36&lines=%3E+stats" alt="stats" />
 
 <br>
 
@@ -132,25 +132,25 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=99999&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=200&height=36&lines=%3E+projects" alt="projects" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=200&height=36&lines=%3E+projects" alt="projects" />
 
 <a href="https://albertocortesba.com">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=99999&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=200&height=28&lines=Portfolio+%E2%86%92" alt="Portfolio" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=200&height=28&lines=Portfolio+%E2%86%92" alt="Portfolio" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&duration=99999&pause=99999&color=7d8590&center=false&vCenter=true&repeat=false&width=600&height=22&lines=Personal+site+-+3D+showcases%2C+6+visual+themes%2C+blog+with+full+CMS%2C+Easter+eggs" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&duration=1&pause=99999&color=a0aab4&center=false&vCenter=true&repeat=false&width=600&height=22&lines=Personal+site+-+3D+showcases%2C+6+visual+themes%2C+blog+with+full+CMS%2C+Easter+eggs" alt="" />
 
 <a href="https://albertocortesba.com/blog">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=99999&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=140&height=28&lines=Blog+%E2%86%92" alt="Blog" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1&pause=99999&color=e8700a&center=false&vCenter=true&repeat=false&width=140&height=28&lines=Blog+%E2%86%92" alt="Blog" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&duration=99999&pause=99999&color=7d8590&center=false&vCenter=true&repeat=false&width=600&height=22&lines=Part+of+the+portfolio+-+comments%2C+view%2Flike+analytics%2C+admin+dashboard" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&duration=1&pause=99999&color=a0aab4&center=false&vCenter=true&repeat=false&width=600&height=22&lines=Part+of+the+portfolio+-+comments%2C+view%2Flike+analytics%2C+admin+dashboard" alt="" />
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=99999&pause=99999&color=e8700a&center=true&vCenter=true&repeat=false&width=200&height=36&lines=%3E+activity" alt="activity" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=e8700a&center=true&vCenter=true&repeat=false&width=200&height=36&lines=%3E+activity" alt="activity" />
 
 <br>
 
@@ -161,7 +161,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&duration=99999&pause=99999&color=9ca3af&center=true&vCenter=true&repeat=false&width=220&height=24&lines=%3E+end+of+file._" alt="eof" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&duration=1&pause=99999&color=9ca3af&center=true&vCenter=true&repeat=false&width=220&height=24&lines=%3E+end+of+file._" alt="eof" />
 
 <br>
 
@@ -171,5 +171,3 @@
 </picture>
 
 </div>
-
-
