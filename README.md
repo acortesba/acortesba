@@ -124,8 +124,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acortesba&theme=default" alt="Profile Details" width="66%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=acortesba&hide_border=true&background=1a1a1a&stroke=2d2d2d&ring=e8700a&fire=e8700a&currStreakLabel=e8700a&sideLabels=9ca3af&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=6b7280&border_radius=6" />
-  <img src="https://streak-stats.demolab.com/?user=acortesba&hide_border=true&background=f5f5f5&stroke=e5e7eb&ring=e8700a&fire=e8700a&currStreakLabel=e8700a&sideLabels=6b7280&currStreakNum=374151&sideNums=374151&dates=9ca3af&border_radius=6" alt="Streak" width="32%" />
+  <source media="(prefers-color-scheme: dark)" srcset= "https://streak-stats.demolab.com/?user=acortesba&hide_border=true&background=f5f5f5&stroke=e5e7eb&ring=e8700a&fire=e8700a&currStreakLabel=e8700a&sideLabels=6b7280&currStreakNum=374151&sideNums=374151&dates=9ca3af&border_radius=6" />
+  <img src="https://streak-stats.demolab.com/?user=acortesba&hide_border=true&background=1a1a1a&stroke=2d2d2d&ring=e8700a&fire=e8700a&currStreakLabel=e8700a&sideLabels=9ca3af&currStreakNum=f5f5f5&sideNums=f5f5f5&dates=6b7280&border_radius=6" alt="Streak" width="32%" />
 </picture>
 
 </div>
