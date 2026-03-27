@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d2d2d&height=160&text=Alberto%20Cort%C3%A9s%20Balaguer&fontSize=36&fontColor=f5f5f5&fontAlignY=42&desc=UX%20Designer%20%26%20Frontend%20Developer&descSize=16&descColor=e8700a&descAlignY=60&fontFamily=VT323" />
+  <source srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2d2d2d&height=160&text=Alberto%20Cort%C3%A9s%20Balaguer&fontSize=36&fontColor=f5f5f5&fontAlignY=42&desc=UX%20Designer%20%26%20Frontend%20Developer&descSize=16&descColor=e8700a&descAlignY=60&fontFamily=VT323" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,100:e8e8e8&height=160&text=Alberto%20Cort%C3%A9s%20Balaguer&fontSize=36&fontColor=1a1a1a&fontAlignY=42&desc=UX%20Designer%20%26%20Frontend%20Developer&descSize=16&descColor=e8700a&descAlignY=60&fontFamily=VT323" alt="Alberto Cortés Balaguer" width="100%" />
 </picture>
 
